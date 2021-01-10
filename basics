@@ -1,3 +1,6 @@
 //variables
             converting string to int use parseInt()
             converting string to float use parseFloat()
+          
+          
+//global execution  context (GEC) which run inside call back and our js code runs here...call back run inside js engine and that alll runs inside Browser
