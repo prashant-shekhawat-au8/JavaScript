@@ -1,1 +1,2 @@
-
+1)  Use Only One Method to Insert, Remove, Update, Delete, Replace Elements in Array
+    ans ...using splice method we can do all operation on an array array.splice()
